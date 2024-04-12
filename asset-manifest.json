@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/geezers-of-harley/static/css/main.78617a82.css",
+    "main.js": "/geezers-of-harley/static/js/main.e0a595b0.js",
+    "static/js/453.856169e4.chunk.js": "/geezers-of-harley/static/js/453.856169e4.chunk.js",
+    "static/media/geezers.jpg": "/geezers-of-harley/static/media/geezers.f78bf0aa00fd14492b92.jpg",
+    "index.html": "/geezers-of-harley/index.html",
+    "main.78617a82.css.map": "/geezers-of-harley/static/css/main.78617a82.css.map",
+    "main.e0a595b0.js.map": "/geezers-of-harley/static/js/main.e0a595b0.js.map",
+    "453.856169e4.chunk.js.map": "/geezers-of-harley/static/js/453.856169e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78617a82.css",
+    "static/js/main.e0a595b0.js"
+  ]
+}
